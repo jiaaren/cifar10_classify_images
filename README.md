@@ -71,3 +71,9 @@
 <img src='./img/case_12.png'>
 <br>
 </details>
+
+<details close>
+<summary>Case 13 - 86.46% - Drastically increased epochs, decreased learning rate, added dropout and additional batch normalization for Conv nets</summary>
+<img src='./img/case_13.png'>
+<br>
+</details>
